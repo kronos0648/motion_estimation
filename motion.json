@@ -1,0 +1,10 @@
+{
+    "arm_left" : "arm",
+    "arm_straight" : "arm",
+    "arm_up" : "arm",
+    "run" : "leg",
+    "walk" : "leg",
+    "spin_clock" : "leg",
+    "spin_reverse" : "leg",
+    "updown" : "leg"
+}
